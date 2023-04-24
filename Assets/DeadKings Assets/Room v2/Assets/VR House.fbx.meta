@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 7eaa61dce8c36fd4b9e22b85bdcfc592
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ashes_Baked
+    second: {fileID: 2100000, guid: 2a599df282e54d8468f9b211ff6abe55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beam_Baked
+    second: {fileID: 2100000, guid: f2d1a2d1f3733ce498ab5233211e83ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Window_Baked
+    second: {fileID: 2100000, guid: 89744875dda9f93439aa176789be0a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire Animation_Baked_18
+    second: {fileID: 2100000, guid: 6d7754629ef21574a97c1999a3eac032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log grate_Baked
+    second: {fileID: 2100000, guid: a08cea74b1cb2f240b6502b80a111918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logs_Baked
+    second: {fileID: 2100000, guid: 66477374bc418174ab4d4371f1faedf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bookshelf_Books_Baked
+    second: {fileID: 2100000, guid: 629e972ca5313ff4198752634d8a059f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bookshelf_Shelf_Baked
+    second: {fileID: 2100000, guid: 0f81d005d9deee9488814ce7bcd8a78f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cabinet_2_Baked
+    second: {fileID: 2100000, guid: 4e45ad053b97b7e41a65036067d554a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cabinet_Baked
+    second: {fileID: 2100000, guid: 0b147da8916f79d45ae5a88b06d38596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Candlestick Flame_Baked
+    second: {fileID: 2100000, guid: 6c57ed8a1ede4de4784822bb190c7ba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Candlestick_Baked
+    second: {fileID: 2100000, guid: 0327a64e367ed5349a8efd41f2726fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ceiling_Window_Baked
+    second: {fileID: 2100000, guid: 89744875dda9f93439aa176789be0a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chair_Baked
+    second: {fileID: 2100000, guid: 1d691f9a7a6e8ea4098825f8b6ec820e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chandelier_Baked
+    second: {fileID: 2100000, guid: 6853c3c063d28cd449a135caace12e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chandelier_Ground_Copper_Baked
+    second: {fileID: 2100000, guid: e807d8565dda13f4d80f66bc04725346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Door_Baked
+    second: {fileID: 2100000, guid: 1a993274bc692a2468f7717bc7be487c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Fireplace_Baked
+    second: {fileID: 2100000, guid: b9d1e1047f3118d49a6d2b93bb31b9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Floor_Baked
+    second: {fileID: 2100000, guid: d3b0893090287a942a31e074fb15a688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Large Barrels_Baked
+    second: {fileID: 2100000, guid: 34855dc196b72ce418058c1cc74e5ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof_Patttern_Baked
+    second: {fileID: 2100000, guid: 08e75f237142b9743abf4b13ad8887cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof_Wood_Baked
+    second: {fileID: 2100000, guid: 6c68d035c4f541f4f99110bd0357d4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Rug_Baked.001
+    second: {fileID: 2100000, guid: a8f68f640db7f3c458516dc08e06c461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Small Barrels_Baked.001
+    second: {fileID: 2100000, guid: bc2c5c66d41f9c7408bc283ad6d17fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stairs_Baked
+    second: {fileID: 2100000, guid: 2df4a9746f352dc44b41767a8be0ebf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Statues_Baked
+    second: {fileID: 2100000, guid: 5d51407a1a1dada45a8713ec138a29e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Table Detailes_Baked
+    second: {fileID: 2100000, guid: 9552cf82b3a36294388efd4bd63aef09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Table Objects_Baked
+    second: {fileID: 2100000, guid: e561055c27a0e8c4c99e29dce1e8a0c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_Baked
+    second: {fileID: 2100000, guid: c327eb7f31722354a8e31c8f7a405877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_Bottom_Baked
+    second: {fileID: 2100000, guid: 26b24ca01d2ed1f458376b491785b844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Window_Baked
+    second: {fileID: 2100000, guid: cb514196b9f023644a00304ff1341754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Bowls_2_Baked
+    second: {fileID: 2100000, guid: 6a0ce00e7d6d24e4f9850b3ddb28299b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Bowls_3_Baked
+    second: {fileID: 2100000, guid: 1b85c04f3269b3546bc65658d6798aa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Bowls_4_Baked
+    second: {fileID: 2100000, guid: a3a6987dcba30a64f9e30f32446f5d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Bowls_5_Baked
+    second: {fileID: 2100000, guid: c1e99ad2cd236184bb015989d556f431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Bowls_Baked
+    second: {fileID: 2100000, guid: a7cc4808531e27c4f94720d2f1f6f880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wooden Chest Baked
+    second: {fileID: 2100000, guid: 9f96548f4208c7c4bba691692181518d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_Baked
+    second: {fileID: 2100000, guid: b5a4cb8607ff41e44ad2b1c67452d9c6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Table_Baked
+    second: {fileID: 2800000, guid: b8aaaf2b5f577294e8960463596e0405, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      internalID: -623603649343465320
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
